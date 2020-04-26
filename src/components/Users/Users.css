@@ -1,0 +1,8 @@
+.users-info{
+    width: 70%;
+    border-right: 1px solid lightgray;
+}
+.div-display{
+    display: flex;
+    padding-left: 5px;
+}
